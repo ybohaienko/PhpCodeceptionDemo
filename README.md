@@ -5,7 +5,7 @@ DEMO project to demonstrate capabilities of testing framework Codeception on Goo
 * **git**
 * **JDK >= 1.8.0_131**
 * **PHP >= 7.1.32**
-* **PHP extensions**
+* **PHP modules/extensions (cURL, DOM, mbstring, etc.)**
 * **Chrome browser >= 79**
 
 ### Used tech:
@@ -24,7 +24,7 @@ DEMO project to demonstrate capabilities of testing framework Codeception on Goo
 ### Run 
 #### Clone the project locally
 ```
-git clone -b develop https://github.com/ybohaienko/PhpCodeceptionProject.git
+git clone -b develop https://github.com/ybohaienko/PhpCodeceptionDemo.git
 ```
 #### To conveniently run the tests, execute from the root directory (only for Linux and MacOS):
 ```
